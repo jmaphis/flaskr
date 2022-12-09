@@ -4,7 +4,7 @@
 
 ## About
 
-Flaskr is a Tumblr style blog application, from the [official Flask tutorial](https://flask.palletsprojects.com/en/2.2.x/tutorial/). You can view posts from other users, or make, edit and delete your own posts. Feel free to leave a post! (But maybe keep it family friendly :upside_down_face:)
+Flaskr is a Tumblr style blog application, from the official Flask tutorial. If you want to build this project for yourself (which I highly recommend if you've never worked with flask before), you can follow along with the tutorial [here](https://flask.palletsprojects.com/en/2.2.x/tutorial/). You can view posts from other users, or make, edit and delete your own posts. Feel free to leave a post! (But maybe keep it family friendly :upside_down_face:)
 
 ## How to use
 
